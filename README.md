@@ -2,7 +2,7 @@
 
 PICO-8 implementation of some [common easing functions](https://easings.net/).
 
-![Easy does it](easing.webm)
+https://user-images.githubusercontent.com/2721645/137821304-5ba9673c-6ed5-4a24-83a6-ff0dcb45b66d.mov
 
 ## Usage
 
